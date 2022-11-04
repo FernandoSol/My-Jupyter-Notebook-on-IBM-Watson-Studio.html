@@ -28,7 +28,7 @@
     },
     {
       "cell_type": "markdown",
-      "source": "**Octavio Palaceta Herrera**",
+      "source": "**Fernando Solis Codina**",
       "metadata": {}
     },
     {
